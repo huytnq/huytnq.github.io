@@ -671,7 +671,6 @@ section .container {
   margin: 0 auto;
   width: 64px;
   height: 64px;
-  background: #18d26e;
   border-radius: 5px;
   transition: all .3s ease-out 0s;
   display: flex;
